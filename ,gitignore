@@ -1,0 +1,29 @@
+﻿# Build Folders
+bin/
+obj/
+
+# Maui specific
+AppPackages/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vscode/
+.history/
+.vs/
+
+# Auto Generated Files
+mono_crash.*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
